@@ -97,3 +97,55 @@ Changes to be committed:
         new file:   README.md
 
 Answer 6
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   answers.md
+
+Answer 7
+On branch master
+nothing to commit, working tree clean
+
+Answer 8
+commit 4332042c7cb5aae1e449f8ae901c96a1f6fde67d (HEAD -> master)
+Author: Adam Hess <ah957314@ohio.edu>
+Date:   Tue May 12 14:19:57 2020 -0400
+
+    Initial Commit
+
+Answer 9
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+Answer 10
+My changers were not on my local copy
+
+Answer 11
+To https://github.com/ah957314/git-lab.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/ah957314/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do   
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes  
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details. 
+
+Answer 12
+Yes now my local file has been updated
+
+Answer 13
+    Directory: C:\Users\hess_\Desktop\cs2400\git-lab-2
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        5/12/2020   2:53 PM            302 .gitignore
+-a----        5/12/2020   2:53 PM             11 README.md
+
+Answer 14
